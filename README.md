@@ -5,8 +5,11 @@ The goal of this project is to expose myself in the NLP section of ML, where I l
 
 ## Tools:
 Data processing: pandas, numpy
+
 Web scraper: requests, BeautifulSoup
+
 Deep learning framework: tensorflow, Hugging Face's transformers, scikit-learn, nltk
+
 Visualization: matplotlib
 
 ## Process:
